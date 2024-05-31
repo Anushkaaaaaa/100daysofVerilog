@@ -11,4 +11,4 @@ Day-7 Mux 4:1, Demux 1
 Day-8 Latches (D, SR, JK)  
 Day-9 FlipFlops (D,SR,JK)  
 Day-10 Aynchronous up/down counter (3 bit) , Johnson Counter  
-Day-11 PRBS Generator
+Day-11 Clock Divider
