@@ -13,3 +13,5 @@ Day-9 FlipFlops (D,SR,JK)
 Day-10 Aynchronous up/down counter (3 bit) , Johnson Counter  
 Day-11 Clock Divider  
 Day-12 PWM Generator  
+Day-13 Traffic Light Controller  
+Day-14 Universal Shift Register  
