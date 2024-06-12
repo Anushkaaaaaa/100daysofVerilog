@@ -17,4 +17,5 @@ Day-13 Traffic Light Controller
 Day-14 Universal Shift Register  
 Day-15 Arithmetic and Logical Unit (ALU)  
 Day-16 Moore Sequence Detector FSM "10101"  
-Day-17 Mealy Sequence Detector FSM "10101"  
+Day-17 Mealy Sequence Detector FSM "10101"   
+Day-18 Moore Sequence Detector FSM "1011"  
