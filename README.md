@@ -15,3 +15,4 @@ Day-11 Clock Divider
 Day-12 PWM Generator  
 Day-13 Traffic Light Controller  
 Day-14 Universal Shift Register  
+Day-15 Arithmetic and Logical Unit (ALU)  
