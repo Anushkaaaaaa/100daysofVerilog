@@ -21,3 +21,7 @@ Day-17 Mealy Sequence Detector FSM "10101"
 Day-18 Moore Sequence Detector FSM "1011"  
 Day-19 Mealy Sequence Detector FSM "1011"  
 Day-20 UART Transmitter  
+Day-21 UART Reciever  
+Day-22 Synchronous FIFO Memory  
+Day-23 Single Port RAM  
+Day-24 Two Port RAM  
