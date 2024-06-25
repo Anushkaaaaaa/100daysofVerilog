@@ -25,3 +25,4 @@ Day-21 UART Reciever
 Day-22 Synchronous FIFO Memory  
 Day-23 Single Port RAM  
 Day-24 Dual Port RAM  
+Day-25 N-Bit Parity Generator  
